@@ -1,0 +1,4 @@
+1.Add vector layer admin_0_countries
+2.Save as added layer Give the type as shapefile and crs 102008 
+3.Go to Project -> Project Properties and set crs 102008
+4.Add raster layer Minscale and set raster crs 27700
